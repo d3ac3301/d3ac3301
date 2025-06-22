@@ -56,7 +56,7 @@
   width="100%" />
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/d3ac3301?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/d3ac3301?tab=followers"><img align="right" src="https://img.shields.io/github/followers/d3ac3301?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/d3ac3301">  <img align="right" src="https://komarev.com/ghpvc/?username=d3ac3301"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/TheSpeedx?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheSpeedx?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheSpeedxlabel=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheSpeedx">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedx"></a>
 
 <p>
   <img align="right"
