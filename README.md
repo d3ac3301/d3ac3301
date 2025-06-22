@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **d3ac3301/d3ac3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
