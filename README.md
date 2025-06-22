@@ -60,11 +60,11 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedx&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ac3301&langs_count=8&theme=react" />
 </p>
 
 <a href="https://github.com/d3ac3301"><img alt="d3ac3301's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=TheSpeedx&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=d3ac3301&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpeedx&theme=black-ice"
     alt="thespeedx" /></p>
