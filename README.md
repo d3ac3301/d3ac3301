@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px" height="30px">, I'm TheSpeedX</h1>
+    width="30px" height="30px">, I'm mr.drac </h1>
 <h3 align="center">Passionate Developer & CyberSecurity Enthusiast</h3>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
@@ -56,20 +56,20 @@
   width="100%" />
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/TheSpeedX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheSpeedX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheSpeedX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheSpeedX">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedX"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/d3ac3301?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/d3ac3301?tab=followers"><img align="right" src="https://img.shields.io/github/followers/d3ac3301?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/d3ac3301">  <img align="right" src="https://komarev.com/ghpvc/?username=d3ac3301"></a>
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ac3301&langs_count=8&theme=react" />
 </p>
 
-<a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=TheSpeedX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<a href="https://github.com/d3ac3301"><img alt="d3ac3301's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=d3ac3301&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3ac3301&theme=black-ice"
     alt="thespeedx" /></p>
 
 <br />
 
-<a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=TheSpeedX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/d3ac3301"><img alt="d3ac3301's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=d3a3301&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
