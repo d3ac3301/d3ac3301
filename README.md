@@ -52,7 +52,7 @@
 
 <h2 align="center">🏆 Github Trophies</h2>
 <img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=TheSpeedX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  src="https://github-profile-trophy.vercel.app/?username=TheSpeedX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Issues&no-frame=true"
   width="100%" />
 <br />
 
@@ -60,13 +60,13 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ac3301&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedx&langs_count=8&theme=react" />
 </p>
 
 <a href="https://github.com/d3ac3301"><img alt="d3ac3301's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=d3ac3301&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=TheSpeedx&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3ac3301&theme=black-ice"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpeedx&theme=black-ice"
     alt="thespeedx" /></p>
 
 <br />
